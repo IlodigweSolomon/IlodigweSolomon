@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi, I am Ilodigwe Ebuka Solomon
 
-<!--
-**IlodigweSolomon/IlodigweSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥇 I am a google certified data analyst
 
-Here are some ideas to get you started:
+🌱 I am always sharpening my skillsets especially in applying analytics to unraveling business needs and developing solutions from obtainable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I am open to collaborating on Data Science, Machine Learning, Business Analytics, and Finance Analytics Projects
+
+📫 Connect with me on www.linkedin.com/in/ilodigwe-solomon
+
+📧 ilodigwesolomon@gmail.com
+
+ ⚡Together we can achieve more
