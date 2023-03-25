@@ -1,6 +1,6 @@
 👋 Hi, I am Ilodigwe Ebuka Solomon
 
-🥇 I am a google certified data analyst
+🥇 I am a Google Certified Data Analyst
 
 🌱 I am always sharpening my skillsets especially in applying analytics to unraveling business needs and developing solutions from obtainable insights
 
